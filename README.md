@@ -22,7 +22,7 @@ This repository contains AI/ML models developed using a custom dataset for [clas
 
 3. **Model 3 [Clustering]**
    - Description: [This model finds if the student admission is accepted or rejected using his Admission Test Score & High School Percentage.]
-   - Evaluation: [Accuracy Score, Confusion Matrix]
+   - Accuracy/Score: [51%]
 
 ## 🛠️ Technologies Used
 
