@@ -1,5 +1,5 @@
-# AIML-models
-# AI/ML Models for [Your Project Name]
+
+# AI/ML Models 
 
 This repository contains AI/ML models developed using a custom dataset for [classification, clustering, regression]. The models are implemented using Python with libraries such as `scikit-learn`, `pandas`, and `matplotlib`.
 
